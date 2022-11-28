@@ -23,8 +23,8 @@ jobs:
     - uses: actions/checkout@master
     - uses: matt-ball/newman-action@master
       with:
-          apiKey: ${{ secrets.postmanApiKey }}
-          collection: postman_collection.json
+          collection: https://example.com/postman/collection.json
+          environment: https://example.com/postman/environment.json
     - run: npm ci
     - run: npm run build --if-present
 
