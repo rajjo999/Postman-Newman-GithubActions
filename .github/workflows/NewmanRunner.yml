@@ -23,8 +23,7 @@ jobs:
     - uses: actions/checkout@master
     - uses: matt-ball/newman-action@master
       with:
-          collection: https://example.com/postman/collection.json
-          environment: https://example.com/postman/environment.json
+          collection: https://postman-echo.com/get?source=newman-sample-github-collection
     - run: npm ci
     - run: npm run build --if-present
 
