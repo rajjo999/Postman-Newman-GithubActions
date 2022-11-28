@@ -1,4 +1,3 @@
-### Newman v5 has been released. Check the [migration guide](MIGRATION.md#migrating-from-v4-to-v5) and [changelog](https://github.com/postmanlabs/newman/blob/v5.0.0/CHANGELOG.yaml#L1) for more details.
 
 <a href="https://www.postman.com/"><img src="https://assets.getpostman.com/common-share/postman-logo-horizontal-320x132.png" /></a><br />
 _Manage all of your organization's APIs in Postman, with the industry's most complete API development environment._
@@ -676,15 +675,3 @@ and `ISO-8859-1` are the only ones that are detection assisted.
 Please take a moment to read our [contributing guide](.github/CONTRIBUTING.md) to learn about our development process.
 Open an [issue](https://github.com/postmanlabs/newman/issues) first to discuss potential changes/additions.
 
-## Community Support
-
-<img src="https://avatars1.githubusercontent.com/u/3220138?v=3&s=120" align="right" />
-If you are interested in talking to the Postman team and fellow Newman users, you can find us on our <a href="https://community.postman.com">Postman Community Forum</a>. Feel free to drop by and say hello. You'll find us posting about upcoming features and beta releases, answering technical support questions, and contemplating world peace.
-
-Sign in using your Postman account to participate in the discussions and don't forget to take advantage of the <a href="https://community.postman.com/search?q=newman">search bar</a> - the answer to your question might already be waiting for you! Don’t want to log in? Then lurk on the sidelines and absorb all the knowledge.
-
-
-## License
-This software is licensed under Apache-2.0. Copyright Postdot Technologies, Inc. See the [LICENSE.md](LICENSE.md) file for more information.
-
-[![Analytics](https://ga-beacon.appspot.com/UA-43979731-9/newman/readme)](https://postman.com)
