@@ -7,7 +7,7 @@
 var newman = require('../'), // require('newman')
     uniqueUrls = {}; // here we will maintain the unique URLs
 
-// call newman.run to pass `options` object and listen to events
+// call newman.run to pass `options` object and listen to events here
 newman.run({ collection: require('./sample-collection.json') })
     .on('start', function (err, args) {
         if (err) { return; }
