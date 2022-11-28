@@ -671,7 +671,3 @@ and `ISO-8859-1` are the only ones that are detection assisted.
 
 [back to top](#table-of-contents)
 
-## Contributing
-Please take a moment to read our [contributing guide](.github/CONTRIBUTING.md) to learn about our development process.
-Open an [issue](https://github.com/postmanlabs/newman/issues) first to discuss potential changes/additions.
-
