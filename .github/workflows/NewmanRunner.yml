@@ -24,7 +24,7 @@ jobs:
     - uses: matt-ball/newman-action@master
       with:
           apiKey: ${{ secrets.postmanApiKey }}
-          collection: v1.postman_collection.json
+          collection: postman_collection.json
     - run: npm ci
     - run: npm run build --if-present
 
